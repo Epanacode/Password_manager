@@ -20,7 +20,7 @@ Store, view, edit, and delete your passwords safely using **Fernet encryption**.
 
 Since this is a CLI application, here's a sample interaction:
 
-![Password Maneger](https://example.com/your_image.png)
+![Password Maneger](https://github.com/Epanacode/Password_manager/blob/main/assets/2025-10-22%2002_03_34-main.py%20-%20Password_manager%20-%20Visual%20Studio%20Code.png?raw=true)
 
 
 ---
